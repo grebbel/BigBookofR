@@ -866,6 +866,16 @@ https://amzn.to/2EREAn2 - used for $4-18, new $19-20
 https://www.e-junkie.com/ecom/gb.php?c=single&cl=147256&i=1548704 - $10 for PDF only
 
 
+## Discovering Statistics using R 
+[Andy Field](https://en.wikipedia.org/wiki/Andy_Field_(academic))
+
+The book (957 pages!) takes students on a journey of statistical discovery using R. 
+The emphasis is on applying what’s learned to playful and real-world examples that should make 
+the experience more fun than expected.  
+
+https://www.discoveringstatistics.com/books/discovering-statistics-using-r/ - paid only: ~€57
+  
+  
 # Version control
 ## Happy Git and GitHub for the useR
 Jenny Bryan, the STAT 545 TAs, Jim Hester
